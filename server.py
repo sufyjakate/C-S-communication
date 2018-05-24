@@ -4,7 +4,7 @@ import os.path
 
 host = 'localhost'
 port = 9000
-folder_location = '/Users/sufyjakate/Downloads/Pyes'
+folder_location = '/Users/Downloads/'
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 print 'Socket created'
